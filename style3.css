@@ -1,0 +1,777 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+header{
+    width: 80%;
+    height: 720px;   
+    margin-left: 7%;
+    margin-right: 13%;
+}
+
+main{
+    width: 87%;
+    height: 2715px;
+    top: -513px;
+    left: -354px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 7%;
+
+    background-color: rgb(237, 237, 237);
+}
+
+
+footer{
+    width: 80%;
+    height: 342px;
+    background: black;
+    display: flex;
+    margin-left: 7%;
+    margin-right: 13%;
+}
+
+.hed{
+    width: 1640px;
+    height: 720px;
+    background-image: url(img/banner1.png);
+    background-size: cover;
+}
+
+
+.head1{
+    width: 1640px;
+    height: 100px;
+    opacity: 0.85px;
+    background: #0E0E0E;
+    
+    display: flex;
+
+    align-items: flex-end;
+}
+    
+
+.headDoch{
+    display: flex;
+    align-items: center;
+    margin-right: 3px;
+}
+
+.headDoch1{
+    width: 132px;
+    height: 58px;
+    top: 24px;
+    left: 268px;
+    margin-right: 13px;
+    margin-bottom: 3px;
+    margin-left: 400px;
+}
+
+.headDochA{
+    text-decoration: none;
+}
+
+.headDochA:hover{
+    text-decoration: underline 0.10em #C53720;
+}
+
+.headDoch2{
+    width: 120px;
+    height: 58px;
+    top: 42px;
+    left: 424px;
+    padding: 8px, 8px, 26px, 8px;    
+}
+
+.headDochA{
+    color: #FFFFFF;
+}
+
+.headDoch2A{
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;   
+    width: 104px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+         
+}
+
+.headDoch3{
+    width: 94px;
+    height: 58px;
+    top: 42px;
+    left: 556px;
+    padding: 8px, 8px, 26px, 8px;
+    
+}
+
+.headDoch3A{
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;    
+    width: 78px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+    
+}
+
+.headDoch4{
+    width: 88px;
+    height: 58px;
+    top: 42px;
+    left: 662px;
+    padding: 8px, 8px, 26px, 8px;
+    
+}
+
+.headDoch4A{
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 72px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+    
+}
+
+.headDoch5{
+    width: 144px;
+    height: 58px;
+    top: 42px;
+    left: 762px;
+    padding: 8px, 8px, 26px, 8px;
+}
+
+.headDoch5A{
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 128px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+          
+}
+
+.headDoch6{
+    width: 108px;
+    height: 58px;
+    top: 42px;
+    left: 918px;
+    padding: 8px, 8px, 26px, 8px;
+    
+}
+
+.headDoch6A{
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 92px;
+    height: 24px;
+    top: 8px;
+    left: 8px;
+       
+}
+
+.headDoch7{
+    width: 168px;
+    height: 40px;
+    top: 42px;
+    left: 1049px;  
+    background: url(img/headD7png.png);  
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+.headDoch7:hover{
+    background-color:  #C53720 ;
+    transition: 0.5s;
+}
+
+.headDoch7A{
+    font-family: Geometria;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 128px;
+    height: 16px;
+    top: 12px;
+    left: 20px;
+    
+}
+
+.headDoch8{
+    width: 40px;
+    height: 40px;
+    top: 42px;
+    left: 1240px;
+    padding: 8px, 6.59px, 5.59px, 8px;
+    margin-bottom: 10px;
+}
+
+.lup{
+    width: 25.41px;
+    height: 26.41px;
+    top: 8px;
+    left: 8px;
+    
+}
+
+.headDoch9{
+    width: 40px;
+    height: 40px;
+    top: 42px;
+    left: 1292px;
+    padding: 4px;
+    margin-bottom: 10px;
+}
+
+.korz{
+    width: 32px;
+    height: 32px;
+    top: 4px;
+    left: 4px;
+    border: 4px;
+}
+
+.headDoch10{
+    width: 40px;
+    height: 40px;
+    top: 42px;
+    left: 1332px;
+    margin-bottom: 10px;
+}
+
+.kol{
+    width: 40px;
+    height: 36px;
+    top: 4px;
+    left: 4px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+        
+}
+
+
+.headPP{
+    width: 586px;
+    height: 172px;
+    margin-top: 255px;
+    margin-left: 156px;
+    font-family: Geometria;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+          
+}
+
+
+.hedButt{
+    width: 216px;
+    height: 52px;
+    border: 2px solid #d6440a;
+    margin-left: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hedButt:hover{
+    background-color:  #C53720 ;
+    transition: 0.5s;
+}
+
+.hBp{
+    width: 176px;
+    height: 16px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    font-family: Geometria;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-decoration: none; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.H1{
+    width: 1127px;
+    height: 52px;    
+    margin-top: 88px;
+    margin-left: 256px;
+    padding: 0px, 0px, 12px, 0px;
+    font-family: Geometria;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+
+.mainDoch{
+    width: 1100px;
+    margin-top: 88px;
+    margin-left: 256px;
+    display: flex;
+    flex-direction: row;
+}
+
+.mainDoch1{
+    width: 260px;
+    height: 1200px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.mainDoch2{
+
+    height: 1543px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.web{
+    width: 260px;
+    height: 45px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.web:hover{
+    border: 1px solid #C53720;
+    width: 259px;
+    height: 44px;
+}
+
+.webI{
+    width: 15px;
+    height: 15px;
+    margin-left: 7px;
+}
+
+p{
+    margin-left: 30px;
+}
+
+h4{
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.block{
+    width: 264px;
+    height: 356px;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.tre{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.block1{
+    width: 100%;
+    height: 50%;
+    background-color: #FFFFFF;
+    
+
+}
+
+
+.block2{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+
+
+.z{
+    margin-left: 60px;
+}
+
+.re{
+
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 220px;
+    height: 36px;      
+}
+
+
+.ty{
+    margin: 15px 0 10px 35px;
+}
+
+.botM{
+    margin-top: 5px;
+    padding-top: 5px;
+    width: 120px;
+    height: 25px;
+    margin-left: 30px;
+    border: 2px solid #C53720;
+    text-align: center;
+}
+
+.botM:hover{
+    background-color: #C53720;
+    transition: 0.5s;
+}
+
+.i{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+.po{
+    width: 840px;
+    height: 520px;
+    text-align: left;
+    
+}
+
+
+
+.nh{
+    margin-left: 10px;
+}
+
+
+
+.io{
+    color: #C53720;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.ll{
+    font-size: 40px;
+    display: inline;
+    margin-left: 10px;
+    color: #0E0E0E;
+}
+
+
+.pp{
+    width: 840px;
+    height: 260px;
+    
+}
+
+.ch{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footImg{
+    width: 168px;
+    height: 74px;
+    margin-top: 54px;
+    margin-left: 256px;
+    
+}
+
+.s{
+    width: 263px;
+    height: 42px;
+    margin-top: 56px;
+    margin-left: 257px;
+    opacity: 0.5px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;    
+}
+
+.info{
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF; 
+    margin-left: 0;   
+}
+
+.in1{
+    width: 104px;
+    height: 24px;
+}
+
+.in2{
+    width: 78px;
+    height: 24px;
+}
+
+.in3{
+    width: 72px;
+    height: 24px;  
+}
+
+.in4{
+    width: 128px;
+    height: 24px;
+}
+
+.komp{
+    width: 130px;
+    height: 200px;
+    margin-top: 34px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.kat{
+    width: 130px;
+    height: 200px;
+    margin-top: 34px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.usl{
+    width: 130px;
+    height: 200px;
+    margin-top: 34px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.for{
+    width: 130px;
+    height: 200px;
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.mainA{
+    font-family: Geometria;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF; 
+    width: 120px;
+    height: 16px;
+    opacity: 50%;
+    text-decoration: none;  
+    margin-bottom: 10px;
+}
+
+.mainA:hover{
+    text-decoration: underline 0.10em #FFFFFF;
+}
+
+
+
+
+
+.last{
+   display: flex;
+   flex-direction: column;
+   margin-top: 34px;
+}
+
+.lastDoch{
+    height: 20px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.lastImg{
+    width: 20px;
+    height: 17px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.lastP{
+    /* width: 192px;
+    height: 24px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left; */
+    color: #FFFFFF;        
+}
+
+.wer{
+    margin-top: 15px;
+}
+
+.lastBut{
+    width: 176px;
+    height: 40px; 
+    border: 3px solid #C53720;
+    color: #FFFFFF;
+    background: #0E0E0E;
+}
+
+.lastBut:hover{
+    background-color:  #C53720 ;
+    transition: 0.5s;
+}
+
+
+.pl{
+    text-decoration: none;
+    color: #FFFFFF;
+}
